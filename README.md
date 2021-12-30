@@ -38,11 +38,4 @@
 <p align="center">
 <a href="https://joelporpatto.online"><img alt="Website" src="https://img.shields.io/badge/Website-joelporpatto.online-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/joelporpatto/"><img alt="LinkedIn" src="https://img.shields.io/badge/joelporpatto-blue?style=flat-square&logo=linkedin"></a>
-<img alt="Email" src="https://img.shields.io/badge/<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>Email-joelporpatto@gmail.com-blue?style=flat-square&logo=gmail">
-</p>
+<a href="mailto:joelporpatto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joelporpatto@gmail.com-blue?style=flat-square&logo=gmail"></a>
